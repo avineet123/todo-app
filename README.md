@@ -2,7 +2,7 @@
 
 ## A todo app, written in Django and Python.
 
-A user may add to a todo task list, view all  the tasks they have to complete,if the task is completed then just click click on that task and the completed task can be deleted by "Delete Completed Button".
+A user may add to todo task list, view all  the tasks they have to complete,if the task is completed then just click on that task after clicking it will show as completed and the completed task can be deleted by "Delete Completed Button".
 
 ### UI Of ToDo App
 
